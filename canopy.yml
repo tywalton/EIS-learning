@@ -2,7 +2,7 @@ title: Exploring Canopy :)
 collection:
   - https://api.dc.library.northwestern.edu/api/v2/collections/073ad358-d5e9-495b-8cb5-58bd5ec4c189?as=iiif
 manifest:
-  - https://api.dc.library.northwestern.edu/api/v2/works/a13433ae-fc9f-429a-82ed-f810c5680200?as=iiif
+  - https://www.loc.gov/item/musemnotation-100049/manifest.json
 metadata:
   - Subject
   - Genre
