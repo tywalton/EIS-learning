@@ -1,5 +1,5 @@
 title: Exploring Canopy :)
-collection:
+# collection:
   - https://api.dc.library.northwestern.edu/api/v2/collections/073ad358-d5e9-495b-8cb5-58bd5ec4c189?as=iiif
 manifest:
   - https://www.loc.gov/item/musemnotation-100049/manifest.json
