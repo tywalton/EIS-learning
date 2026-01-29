@@ -1,46 +1,15 @@
-title: Exploring Canopy
+title: Zanzibar
 collection:
-  - https://api.dc.library.northwestern.edu/api/v2/collections/7ac5769f-a1d9-4227-a350-bf8bd8b1cddc?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/collections/94536627-cfdf-413c-852b-0cb16d986da3?as=iiif
+  - https://api.dc.library.northwestern.edu/api/v2/collections/073ad358-d5e9-495b-8cb5-58bd5ec4c189?as=iiif
 manifest:
-  - https://iiif.vam.ac.uk/collections/O1267239/manifest.json
-  - https://iiif.vam.ac.uk/collections/O755793/manifest.json
-  - https://iiif.vam.ac.uk/collections/O136839/manifest.json
-  - https://iiif.vam.ac.uk/collections/O74660/manifest.json
+  - https://api.dc.library.northwestern.edu/api/v2/works/a13433ae-fc9f-429a-82ed-f810c5680200?as=iiif
+  - https://api.dc.library.northwestern.edu/api/v2/works/fdaee3f6-ead3-4880-9969-1ce820e8581c?as=iiif
+  - https://api.dc.library.northwestern.edu/api/v2/works/261c3823-c82e-43b7-bba8-41046ce3a3dd?as=iiif
 metadata:
   - Subject
-  - Date
-  - Language
   - Genre
 featured:
-  - https://api.dc.library.northwestern.edu/api/v2/works/4bdb5a22-6c7f-498d-8e6e-e49ea9bc4778?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/works/c26591b2-994b-4ba3-a87e-9124419fa91b?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/works/d4c62d7f-f50d-4b29-85e0-5d380675bec7?as=iiif
-  - https://iiif.vam.ac.uk/collections/O74660/manifest.json
-  - https://api.dc.library.northwestern.edu/api/v2/works/e0d60273-e64c-49d8-99dc-d1af8f4c6266?as=iiif
-search:
-  page:
-    title: Search
-    description: Discover results across the entire collection.
-  results:
-    work:
-      layout: grid
-      result: figure
-    page:
-      layout: list
-      result: article
-  index:
-    metadata:
-      enabled: true
-      all: false
-    summary:
-      enabled: true
-    annotations:
-      enabled: false
-      motivation:
-        - commenting
-        - tagging
-theme:
-  appearance: light
-  accentColor: indigo
-  grayColor: slate
+  - https://api.dc.library.northwestern.edu/api/v2/works/38d10b34-26e0-49f5-a696-455a86f1d28f?as=iiif
+  - https://api.dc.library.northwestern.edu/api/v2/works/1d208792-6355-43df-99e1-ec5c965ee915?as=iiif
+  - https://api.dc.library.northwestern.edu/api/v2/works/a13433ae-fc9f-429a-82ed-f810c5680200?as=iiif
+  - https://api.dc.library.northwestern.edu/api/v2/works/fdaee3f6-ead3-4880-9969-1ce820e8581c?as=iiif
