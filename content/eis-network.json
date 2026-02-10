@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "key": "doc1",
+      "label": "EIS: Wind Farm Project",
+      "x": 0,
+      "y": 0,
+      "size": 10,
+      "color": "#4CAF50",
+      "url": "https://example.org/iiif/wind/manifest"
+    },
+    {
+      "key": "doc2",
+      "label": "EIS: Solar Carport",
+      "x": 1,
+      "y": 1,
+      "size": 10,
+      "color": "#FFC107",
+      "url": "https://example.org/iiif/solar/manifest"
+    },
+    {
+      "key": "doc3",
+      "label": "EIS: Transmission Line",
+      "x": -1,
+      "y": 1,
+      "size": 10,
+      "color": "#03A9F4",
+      "url": "https://example.org/iiif/transmission/manifest"
+    }
+  ],
+  "edges": [
+    {
+      "key": "e1",
+      "source": "doc1",
+      "target": "doc2",
+      "label": "shared theme: renewable energy"
+    },
+    {
+      "key": "e2",
+      "source": "doc1",
+      "target": "doc3",
+      "label": "shared theme: infrastructure"
+    }
+  ]
+}
