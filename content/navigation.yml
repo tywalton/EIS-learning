@@ -5,3 +5,5 @@ navigation:
     label: Docs
   - href: /about
     label: About
+  - href: /docs
+    label: New Doc
